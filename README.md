@@ -1,11 +1,12 @@
 ### Hi there, This is Dharani 👋
 
+[![HitCount](http://hits.dwyl.com/Rani-dha/https://githubcom/Rani-dha/Rani-dha/blob/master/READMEmd.svg)](http://hits.dwyl.com/Rani-dha/https://githubcom/Rani-dha/Rani-dha/blob/master/READMEmd)
 
- 🌱 I’m currently learning about Git & GitHub
+ 🌱 I’m currently learning about Git & GitHub 
  
- 💬 Ask me about C, Java, OOPs, Graphic Designs, Photography ...
+ 💬 Ask me about C, Java, OOPs, Graphic Designs, Photography 
  
- 📫 Let us stay connected: Dharani T [LinkedIn](https://www.linkedin.com/in/dharani-t-86842a192/)...
+ 📫 Let us stay connected: Dharani T [LinkedIn](https://www.linkedin.com/in/dharani-t-86842a192/) 
 
 :pushpin:  http://about.me/dharani_t - portfolio!
 <!--
