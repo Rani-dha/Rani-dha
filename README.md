@@ -1,6 +1,6 @@
 ### Hi there, This is Dharani 👋
 
-[![HitCount](http://hits.dwyl.com/Rani-dha/https://githubcom/Rani-dha/Rani-dha/blob/master/READMEmd.svg)](http://hits.dwyl.com/Rani-dha/https://githubcom/Rani-dha/Rani-dha/blob/master/READMEmd)
+<!--[![HitCount](http://hits.dwyl.com/Rani-dha/https://githubcom/Rani-dha/Rani-dha/blob/master/READMEmd.svg)](http://hits.dwyl.com/Rani-dha/https://githubcom/Rani-dha/Rani-dha/blob/master/READMEmd) -->
 
  🌱 I’m currently learning about Git & GitHub 
  
