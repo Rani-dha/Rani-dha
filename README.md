@@ -4,7 +4,7 @@
 
  🌱 I’m currently learning about Git & GitHub 
  
- 💬 Ask me about C, OOPS, Graphic Designs, Photography 
+ 💬 Ask me about C, Graphic Designs, Photography 
  
  📫 Let us stay connected: Dharani T [LinkedIn](https://www.linkedin.com/in/dharani-t-86842a192/) 
 
