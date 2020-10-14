@@ -4,15 +4,16 @@
 
  🌱 I’m currently learning about Git & GitHub 
  
- 💬 Ask me about C, Graphic Designs, Photography 
+ 💬 Ask me about C, Graphic Designs
  
  📫 Let us stay connected: Dharani T [LinkedIn](https://www.linkedin.com/in/dharani-t-86842a192/) 
 
-:pushpin:  http://about.me/dharani_t - portfolio!
+
 <!--
 **Rani-dha/Rani-dha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+:pushpin:  http://about.me/dharani_t - portfolio!
 
 - 🔭 I’m currently working on ...
 
