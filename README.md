@@ -6,10 +6,11 @@
  
  💬 Ask me about C, Graphic Designs
  
- 📫 Let us stay connected: Dharani T [LinkedIn](https://www.linkedin.com/in/dharani-t-86842a192/) 
+ 
 
 
 <!--
+
 **Rani-dha/Rani-dha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -23,4 +24,6 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+📫 Let us stay connected: Dharani T [LinkedIn](https://www.linkedin.com/in/dharani-t-86842a192/) 
 -->
