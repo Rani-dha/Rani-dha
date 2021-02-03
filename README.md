@@ -4,7 +4,9 @@
 
  🌱 I’m currently learning about Git & GitHub 
  
- 💬 Ask me about C, Graphic Designs
+ 💬 Ask me about C, Web Development, Graphic Designs.
+ 
+ 📫 How to reach me: https://www.linkedin.com/in/dharani-t-86842a192/
  
  
 
@@ -25,5 +27,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-📫 Let us stay connected: Dharani T [LinkedIn](https://www.linkedin.com/in/dharani-t-86842a192/) 
+
 -->
