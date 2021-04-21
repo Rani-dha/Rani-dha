@@ -12,7 +12,7 @@
   
   
 👨‍💻 20 Years old Developer  
-👨‍🎓 Studying Computer Science here in India  
+👨‍🎓 Studying Information Technogy here in India  
 🚧 **Current Project:** [Portfolio](https://github.com/Rani-dha/Rani-dha.github.io)
 
 ⭐️ From [Dharani](https://github.com/Rani-dha)
