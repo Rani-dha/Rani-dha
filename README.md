@@ -53,7 +53,7 @@ Check out my repos ⬇️
 
 
 
- <img align='right' src="https://github-readme-stats.vercel.app/api?username=Rani-dha&show_icons=true">
+ 
  
  
  
@@ -64,12 +64,6 @@ Check out my repos ⬇️
 
 
   
-  
-👨‍💻 20 Years old Developer  
-👨‍🎓 Studying Information Technogy here in India  
-🚧 **Current Project:** [Portfolio](https://rani-dha.github.io/)
-
-⭐️ From [Dharani](https://github.com/Rani-dha)
 
  
  
@@ -78,7 +72,11 @@ Check out my repos ⬇️
 
 
 <!--
+👨‍💻 20 Years old Developer  
+👨‍🎓 Studying Information Technogy here in India  
+🚧 **Current Project:** [Portfolio](https://rani-dha.github.io/)
 
+⭐️ From [Dharani](https://github.com/Rani-dha)
 
   code: [Javascript, HTML, CSS],
     askMeAbout: ["web dev", "tech", "crypto", "music", "coffee"],
