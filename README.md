@@ -1,14 +1,68 @@
  
 
-<!--[![HitCount](http://hits.dwyl.com/Rani-dha/https://githubcom/Rani-dha/Rani-dha/blob/master/READMEmd.svg)](http://hits.dwyl.com/Rani-dha/https://githubcom/Rani-dha/Rani-dha/blob/master/READMEmd) -->
+<!--[![HitCount](http://hits.dwyl.com/Rani-dha/https://githubcom/Rani-dha/Rani-dha/blob/master/READMEmd.svg)](http://hits.dwyl.com/Rani-dha/https://githubcom/Rani-dha/Rani-dha/blob/master/READMEmd) 
+[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+ -->
+
+## Hi there 👋 Welcome to my GitHub! I'm Dharani, Programmer
+
+
+
+[![Linkedin: Dharani T](https://img.shields.io/badge/-Dharani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dharani-t-86842a192/)](https://www.linkedin.com/in/dharani-t-86842a192/)
+![](https://visitor-badge.glitch.me/badge?page_id=Rani-dha.Ranidha)
+![Twitter Follow](https://img.shields.io/twitter/follow/Ranidha4?style=social)
+[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=white&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/inarahd_t)
+[![Gmail](https://img.shields.io/static/v1?label=Dharani&message=%20&color=white&logo=gmail&style=flat-square&logoColor=white)](mailto:gct.it18.dharani@gmail.com)
+
+### aboutMe.js
+
+```javascript
+const Dharani = {
+    Pronouns    : ["she" | "her"] ,
+    Hometown    : ["Kangeyam, Tiruppur, India"],
+    Education   : {
+                     College : ["GCT Coimbatore"],
+                     Course  : ["B.Tech in Information Technology ('22)"]
+                  },
+                
+    Interests   : {
+                     Programming : ["Web development", "Java"],
+                     Academic    : ["Data Structure and Algorithms", "DBMS", "Operating System", "Networks"]
+                  },
+       
+    Editor      : ["Visual Studio Code", "IntelliJ"],
+    
+    Languages   : {
+                     Programming    : ["Java", "C/C++", "PHP", "JavaScript Basics", "Python"],
+                     OtherTechnical : ["HTML", "CSS", "SQL"],
+                     Human          : ["Tamil", "English"]
+                  },
+    
+   Technologies : {
+                     Frameworks : ["Bootstrap UI"],
+                     Tools      : ["Git", "GitHub", "Photoshop"]
+                  }
+};            
+                
+  
+```
+
+<p align="center">
+Check out my repos ⬇️  
+</p>
+
+
 
  <img align='right' src="https://github-readme-stats.vercel.app/api?username=Rani-dha&show_icons=true">
-
+ 
+ 
+ 
+ 
 ### Hi there I'm Dharani!
 
 [![Dharani](https://img.shields.io/static/v1?label=dharani&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://github.com/Rani-dha/Rani-dha.github.io)
-[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/inarahd_t/)
-[![me@Rani-dha](https://img.shields.io/static/v1?label=me@dharani&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:gct.it18.dharani@gmail.com)
+
+
   
   
 👨‍💻 20 Years old Developer  
@@ -24,6 +78,19 @@
 
 
 <!--
+
+
+  code: [Javascript, HTML, CSS],
+    askMeAbout: ["web dev", "tech", "crypto", "music", "coffee"],
+    technologies: {
+        frontEnd: {
+            css: ["bootstrap", "materialize"]
+        },
+        backEnd: {
+            js: ["firebase", "node"]
+        }        
+    }
+};
 ### Hi there, This is Dharani 👋 
 🌱 I’m currently learning about Git & GitHub 
  
