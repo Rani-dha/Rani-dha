@@ -50,21 +50,6 @@ const Dharani = {
 <p align="center">
 Check out my repos ⬇️  
 </p>
-
-
-
- 
- 
- 
- 
- 
-### Hi there I'm Dharani!
-
-[![Dharani](https://img.shields.io/static/v1?label=dharani&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://github.com/Rani-dha/Rani-dha.github.io)
-
-
-  
-
  
  
  
