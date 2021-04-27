@@ -3,6 +3,7 @@
 <!--[![HitCount](http://hits.dwyl.com/Rani-dha/https://githubcom/Rani-dha/Rani-dha/blob/master/READMEmd.svg)](http://hits.dwyl.com/Rani-dha/https://githubcom/Rani-dha/Rani-dha/blob/master/READMEmd) 
 [![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 ![Twitter Follow](https://img.shields.io/twitter/follow/Ranidha4?style=social)
+[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=white&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/inarahd_t)
  -->
 
 ## Hi there 👋 Welcome to my GitHub! I'm Dharani, Programmer
@@ -11,7 +12,6 @@
 
 [![Linkedin: Dharani T](https://img.shields.io/badge/-Dharani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dharani-t-86842a192/)](https://www.linkedin.com/in/dharani-t-86842a192/)
 ![](https://visitor-badge.glitch.me/badge?page_id=Rani-dha.Ranidha)
-[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=white&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/inarahd_t)
 [![Gmail](https://img.shields.io/static/v1?label=Dharani&message=%20&color=white&logo=gmail&style=flat-square&logoColor=white)](mailto:gct.it18.dharani@gmail.com)
 
 ### aboutMe.js
