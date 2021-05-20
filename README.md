@@ -33,7 +33,7 @@ const Dharani = {
     Editor      : ["Visual Studio Code", "IntelliJ"],
     
     Languages   : {
-                     Programming    : ["Java", "C/C++", "PHP", "JavaScript Basics", "Python"],
+                     Programming    : ["Java", "C", "PHP", "JavaScript Basics", "Python"],
                      OtherTechnical : ["HTML", "CSS", "SQL"],
                      Human          : ["Tamil", "English"]
                   },
