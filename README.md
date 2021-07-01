@@ -46,6 +46,15 @@ const Dharani = {
                 
   
 ```
+### Github Activity ✔:
+
+<a href="https://github.com/Rani-dha">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rani-dha&theme=tokyonight" />
+  </a>
+
+<a href="https://github.com/Rani-dha">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rani-dha&show_icons=true&theme=tokyonight&line_height=27" alt="Dharani's github stats"/>
+</a>
 
 <p align="center">
 Check out my repos ⬇️  
@@ -97,3 +106,6 @@ Here are some ideas to get you started:
 
 
 -->
+
+
+
