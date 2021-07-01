@@ -55,14 +55,27 @@ const Dharani = {
 <a href="https://github.com/Rani-dha">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rani-dha&show_icons=true&theme=tokyonight&line_height=27" alt="Dharani's github stats"/>
 </a>
-
-<p align="center">
+<br/>
+<br/>
+<br/>
+<br/> <br/> <br/>
+<p align="left">
 Check out my repos ⬇️  
 </p>
- 
- 
- 
- 
+<a href="https://github.com/Rani-dha/DSA">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rani-dha&repo=DSA&theme=tokyonight" />
+</a>
+<a href="https://github.com/Rani-dha/JAVA-COLLECTIONS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rani-dha&repo=JAVA-COLLECTIONS&theme=tokyonight" />
+</a>
+<a href="https://github.com/Rani-dha/Projects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rani-dha&repo=Projects&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Rani-dha/Rani-dha.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rani-dha&repo=Rani-dha.github.io&theme=tokyonight" />
+</a>
+
 
 
 <!--
