@@ -46,7 +46,7 @@ const Dharani = {
                 
   
 ```
-### Github Activity ✔:
+<!-- ### Github Activity ✔:
 
 <a href="https://github.com/Rani-dha">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rani-dha&theme=tokyonight" />
@@ -59,7 +59,7 @@ const Dharani = {
 <br/>
 <br/>
 <br/> <br/> <br/>
-<p align="left">
+<p align="left"> -->
 Check out my repos ⬇️  
 </p>
 <a href="https://github.com/Rani-dha/DSA">
