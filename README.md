@@ -6,10 +6,10 @@
 [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=white&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/inarahd_t)
  -->
 
-## Hi there 👋 Welcome to my GitHub! I'm Dharani, Programmer
+## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### Hello! I'm Dharani Thangavel a Programmer from India.
 
-
-
+### Portfolio: https://Rani-dha.github.io
 [![Linkedin: Dharani T](https://img.shields.io/badge/-Dharani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dharani-t-86842a192/)](https://www.linkedin.com/in/dharani-t-86842a192/)
 ![](https://visitor-badge.glitch.me/badge?page_id=Rani-dha.Ranidha)
 [![Gmail](https://img.shields.io/static/v1?label=Dharani&message=%20&color=white&logo=gmail&style=flat-square&logoColor=white)](mailto:gct.it18.dharani@gmail.com)
