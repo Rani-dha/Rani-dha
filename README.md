@@ -9,11 +9,31 @@
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 ### Hello! I'm Dharani, a passionate self-taught programmer from India <img align='right' src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="150"> 
 <!-- https://media.giphy.com/media/3owyp2SViuDIGh8YoM/giphy.gif
- https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif  -->
-##### Portfolio: https://Rani-dha.github.io
-[![Linkedin: Dharani T](https://img.shields.io/badge/-Dharani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dharani-t-86842a192/)](https://www.linkedin.com/in/dharani-t-86842a192/)
+ https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif 
+![Linkedin: Dharani T](https://img.shields.io/badge/-Dharani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dharani-t-86842a192/)](https://www.linkedin.com/in/dharani-t-86842a192/)
 ![](https://visitor-badge.glitch.me/badge?page_id=Rani-dha.Ranidha)
 [![Gmail](https://img.shields.io/static/v1?label=Dharani&message=%20&color=white&logo=gmail&style=flat-square&logoColor=white)](mailto:gct.it18.dharani@gmail.com)
+
+-->
+##### Portfolio: https://Rani-dha.github.io
+<a href="https://www.linkedin.com/in/dharani-t-86842a192/">
+  <img align="left" alt="Dharani's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://auth.geeksforgeeks.org/user/dharanigct18/profile">
+  <img align="left" alt="Dharani's GFG profile" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/geeksforgeeks.svg" />
+</a>
+<a href="https://www.hackerrank.com/gct_it18_dharani">
+  <img align="left" alt="Dharani's hackerrank profile" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" />
+</a>
+<a href="https://leetcode.com/gct_it18_dharani/">
+  <img align="left" alt="Dharni's leetcode profile" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" />
+</a>
+<a href="https://www.behance.net/gct_it18_dharani/">
+ <img align="left" alt="Dharni's behance profile" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/behance.svg" />
+</a>
+ 
+<br />
+<br />
 
 
 ### aboutMe.js
@@ -61,7 +81,8 @@ const Dharani = {
 <br/>
 <br/>
 <br/> <br/> <br/>
-<p align="left"> -->
+<p align="left"> 
+
 Check out my repos ⬇️  
 </p>
 <a href="https://github.com/Rani-dha/DSA">
@@ -77,6 +98,9 @@ Check out my repos ⬇️
 <a href="https://github.com/Rani-dha/Rani-dha.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rani-dha&repo=Rani-dha.github.io&theme=tokyonight" />
 </a>
+
+
+-->
 
 ![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif)
 
