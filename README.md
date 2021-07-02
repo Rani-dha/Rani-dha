@@ -7,8 +7,9 @@
  -->
 
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-### Hello! I'm Dharani a Programmer from India<img align='right' src="https://media.giphy.com/media/3owyp2SViuDIGh8YoM/giphy.gif" width="250"> 
-<!-- https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif  -->
+### Hello! I'm Dharani, a passionate self-taught programmer from India <img align='right' src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="150"> 
+<!-- https://media.giphy.com/media/3owyp2SViuDIGh8YoM/giphy.gif
+ https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif  -->
 ##### Portfolio: https://Rani-dha.github.io
 [![Linkedin: Dharani T](https://img.shields.io/badge/-Dharani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dharani-t-86842a192/)](https://www.linkedin.com/in/dharani-t-86842a192/)
 ![](https://visitor-badge.glitch.me/badge?page_id=Rani-dha.Ranidha)
@@ -77,7 +78,7 @@ Check out my repos ⬇️
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rani-dha&repo=Rani-dha.github.io&theme=tokyonight" />
 </a>
 
-
+![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif)
 
 <!--
 👨‍💻 20 Years old Developer  
