@@ -19,7 +19,7 @@
 <a href="https://www.linkedin.com/in/dharani-t-86842a192/">
   <img align="left" alt="Dharani's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://auth.geeksforgeeks.org/user/dharanigct18/profile">
+<a href="https://auth.geeksforgeeks.org/user/dharanigct18/practice">
   <img align="left" alt="Dharani's GFG profile" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/geeksforgeeks.svg" />
 </a>
 <a href="https://www.hackerrank.com/gct_it18_dharani">
