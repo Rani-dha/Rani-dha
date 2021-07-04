@@ -1,36 +1,22 @@
- 
+ <!-- Sample Dev class image 
+<img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/dev_object.png" alt="dev_object" align="right" width="500" /> -->
 
-<!--[![HitCount](http://hits.dwyl.com/Rani-dha/https://githubcom/Rani-dha/Rani-dha/blob/master/READMEmd.svg)](http://hits.dwyl.com/Rani-dha/https://githubcom/Rani-dha/Rani-dha/blob/master/READMEmd) 
-[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-![Twitter Follow](https://img.shields.io/twitter/follow/Ranidha4?style=social)
-[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=white&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/inarahd_t)
- -->
 
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 ### Hello! I'm Dharani, a passionate self-taught programmer from India <img align='right' src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="150"> 
 <!-- https://media.giphy.com/media/3owyp2SViuDIGh8YoM/giphy.gif
  https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif 
-![Linkedin: Dharani T](https://img.shields.io/badge/-Dharani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dharani-t-86842a192/)](https://www.linkedin.com/in/dharani-t-86842a192/)
-![](https://visitor-badge.glitch.me/badge?page_id=Rani-dha.Ranidha)
-[![Gmail](https://img.shields.io/static/v1?label=Dharani&message=%20&color=white&logo=gmail&style=flat-square&logoColor=white)](mailto:gct.it18.dharani@gmail.com)
-
 -->
 ##### Portfolio: https://Rani-dha.github.io
-<a href="https://www.linkedin.com/in/dharani-t-86842a192/">
-  <img align="left" alt="Dharani's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://auth.geeksforgeeks.org/user/dharanigct18/practice">
-  <img align="left" alt="Dharani's GFG profile" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/geeksforgeeks.svg" />
-</a>
-<a href="https://www.hackerrank.com/gct_it18_dharani">
-  <img align="left" alt="Dharani's hackerrank profile" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" />
-</a>
-<a href="https://leetcode.com/gct_it18_dharani/">
-  <img align="left" alt="Dharni's leetcode profile" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" />
-</a>
-<a href="https://www.behance.net/gct_it18_dharani/">
- <img align="left" alt="Dharni's behance profile" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/behance.svg" />
-</a>
+[![Linkedin](https://img.shields.io/badge/-Dharani-blue?style=flat&labelColor=blue&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dharani-t-86842a192/)
+[![GeeksForGeeks](https://img.shields.io/badge/-Dharani-black?style=flat&labelColor=black&logo=geeksforgeeks&logoColor=brightgreen)](https://auth.geeksforgeeks.org/user/dharanigct18/practice)
+[![HackerRank](https://img.shields.io/badge/-Dharani-black?style=flat&labelColor=black&logo=HackerRank&logoColor=brightgreen)](https://www.hackerrank.com/gct_it18_dharani)
+[![Leetcode](https://img.shields.io/badge/-Dharani-black?style=flat&labelColor=black&logo=leetcode&logoColor=orange)](https://leetcode.com/gct_it18_dharani/)
+[![Behance](https://img.shields.io/badge/-Dharani-black?style=flat&labelColor=black&logo=behance&logoColor=white)](https://www.behance.net/gct_it18_dharani/)
+[![Gmail](https://img.shields.io/badge/-Dharani-black?style=flat&labelColor=black&logo=Gmail&logoColor=red)](mailto:gct.it18.dharani@gmail.com)
+![](https://visitor-badge.glitch.me/badge?page_id=Rani-dha.Ranidha)
+[![Github](https://img.shields.io/badge/-Dharani-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://github.com/Rani-dha/)
+[![Telegram](https://img.shields.io/badge/-Dharani-blue?style=flat&labelColor=blue&logo=Telegram&logoColor=white)](https://t.me/gct_it18_dharani)
  
 <br />
 <br />
@@ -68,83 +54,5 @@ const Dharani = {
                 
   
 ```
-<!-- ### Github Activity ✔:
-
-<a href="https://github.com/Rani-dha">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rani-dha&theme=tokyonight" />
-  </a>
-
-<a href="https://github.com/Rani-dha">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rani-dha&show_icons=true&theme=tokyonight&line_height=27" alt="Dharani's github stats"/>
-</a>
-<br/>
-<br/>
-<br/>
-<br/> <br/> <br/>
-<p align="left"> 
-
-Check out my repos ⬇️  
-</p>
-<a href="https://github.com/Rani-dha/DSA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rani-dha&repo=DSA&theme=tokyonight" />
-</a>
-<a href="https://github.com/Rani-dha/JAVA-COLLECTIONS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rani-dha&repo=JAVA-COLLECTIONS&theme=tokyonight" />
-</a>
-<a href="https://github.com/Rani-dha/Projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rani-dha&repo=Projects&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Rani-dha/Rani-dha.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rani-dha&repo=Rani-dha.github.io&theme=tokyonight" />
-</a>
-
-
--->
 
 ![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif)
-
-<!--
-👨‍💻 20 Years old Developer  
-👨‍🎓 Studying Information Technogy here in India  
-🚧 **Current Project:** [Portfolio](https://rani-dha.github.io/)
-
-⭐️ From [Dharani](https://github.com/Rani-dha)
-
-  code: [Javascript, HTML, CSS],
-    askMeAbout: ["web dev", "tech", "crypto", "music", "coffee"],
-    technologies: {
-        frontEnd: {
-            css: ["bootstrap", "materialize"]
-        },
-        backEnd: {
-            js: ["firebase", "node"]
-        }        
-    }
-};
-### Hi there, This is Dharani 👋 
-🌱 I’m currently learning about Git & GitHub 
- 
- 💬 Ask me about C, Web Development, Graphic Designs.
- 
- 📫 How to reach me: https://www.linkedin.com/in/dharani-t-86842a192/
-
-**Rani-dha/Rani-dha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-:pushpin:  http://about.me/dharani_t - portfolio!
-
-- 🔭 I’m currently working on ...
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
--->
-
-
-
