@@ -16,7 +16,7 @@
 [![Gmail](https://img.shields.io/badge/-Dharani-black?style=flat&labelColor=black&logo=Gmail&logoColor=red)](mailto:gct.it18.dharani@gmail.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=Rani-dha.Ranidha)
 [![Github](https://img.shields.io/badge/-Dharani-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://github.com/Rani-dha/)
-[![Telegram](https://img.shields.io/badge/-Dharani-blue?style=flat&labelColor=blue&logo=Telegram&logoColor=white)](https://t.me/gct_it18_dharani)
+<!-- [![Telegram](https://img.shields.io/badge/-Dharani-blue?style=flat&labelColor=blue&logo=Telegram&logoColor=white)](https://t.me/gct_it18_dharani) -->
  
 <br />
 <br />
