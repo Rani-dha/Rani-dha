@@ -35,13 +35,13 @@ const Dharani = {
                 
     Interests   : {
                      Programming : ["Web development", "Java"],
-                     Academic    : ["Data Structure and Algorithms", "DBMS", "Operating System", "Networks"]
+                     Academic    : ["Data Structure and Algorithms", "DBMS", "Operating System"]
                   },
        
     Editor      : ["Visual Studio Code", "IntelliJ"],
     
     Languages   : {
-                     Programming    : ["Java", "C", "PHP", "JavaScript Basics", "Python"],
+                     Programming    : ["Java", "C", "JavaScript Basics", "PHP"],
                      OtherTechnical : ["HTML", "CSS", "SQL"],
                      Human          : ["Tamil", "English"]
                   },
