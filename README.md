@@ -7,7 +7,7 @@
 <!-- https://media.giphy.com/media/3owyp2SViuDIGh8YoM/giphy.gif
  https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif 
 -->
-##### Portfolio: https://Rani-dha.github.io
+<!-- ##### Portfolio: https://Rani-dha.github.io -->
 [![Linkedin](https://img.shields.io/badge/-Dharani-blue?style=flat&labelColor=blue&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dharani-t-86842a192/)
 [![GeeksForGeeks](https://img.shields.io/badge/-Dharani-black?style=flat&labelColor=black&logo=geeksforgeeks&logoColor=brightgreen)](https://auth.geeksforgeeks.org/user/dharanigct18/practice)
 [![HackerRank](https://img.shields.io/badge/-Dharani-black?style=flat&labelColor=black&logo=HackerRank&logoColor=brightgreen)](https://www.hackerrank.com/gct_it18_dharani)
