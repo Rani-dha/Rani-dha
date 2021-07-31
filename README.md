@@ -22,7 +22,31 @@
 <br />
 <br />
 
+## Who am I?
+```javascript
+const Dharani  = {
+                    "Pronouns": [" She" | "her"],  
+                    "Hometown": "Kangeyam, Tiruppur, India",
+                    "College": "Government College of Technology(GCT)",
+                    "Course": "B.Tech in Information Technology('22)",
+                    "Languages": ["Java","C","JS basics"],
+                    "OtherTechnical": ["HTML", "CSS","SQL"],
+                    "Academic": ["Data Structures & Algorithmns","DBMS","OS basics"],
+                    "Editor": "Visual Studio Code",
+                    "Frameworks": "Bootstrap UI basics",
+                    "Tools": ["Git","Photoshop"],
+                    "Life Motto": ["long long learning = 100;  
+                                    while(1) {
+                                      if(learning > 0){ 
+                                      extern int Knowledge = 1;
+                                      ++Knowledge;
+                                    } }" ],
+                    "Responsibility": "Chief Designer SJC-GCT"   
+                  }
+```                   
+                  
 
+<!-- 
 ### aboutMe.js
 
 ```javascript
@@ -54,7 +78,7 @@ const Dharani = {
 };            
                 
   
-```
+``` -->
 
 <!-- ![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif) -->
 
