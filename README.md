@@ -42,7 +42,7 @@ const Dharani  = {
                                       ++Knowledge;
                                     } }" ],
                     "Responsibility": "Chief Designer SJC-GCT"   
-                  }
+                  };
 ```                   
                   
 
