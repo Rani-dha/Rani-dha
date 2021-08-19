@@ -35,6 +35,8 @@ const Dharani  = {
                     "Editor": "Visual Studio Code",
                     "Frameworks": "Bootstrap UI basics",
                     "Tools": ["Git","Photoshop"],
+                    "Achievements": ["Ranked Top student in GCT- GeeksForGeeks coding platform",
+                                 "Successfully completed the Hacktoberfest Challenge 2020"], 
                     "Life Motto": ["long long learning = 100;  
                                     while(1) {
                                       if(learning > 0){ 
