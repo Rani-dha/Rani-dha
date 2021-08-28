@@ -25,8 +25,8 @@
 
 ## Who am I?
 ```javascript
-const Dharani  = {
-                    "Pronouns": [" She" | "her"],  
+const Dharani  = '{
+                    "Pronouns": [" She", "her"],  
                     "Hometown": "Kangeyam, Tiruppur, India",
                     "College": "Government College of Technology(GCT)",
                     "Course": "B.Tech in Information Technology('22)",
@@ -38,14 +38,14 @@ const Dharani  = {
                     "Tools": ["Git","Photoshop"],
                     "Achievements": ["Ranked Top student in GCT- GeeksForGeeks coding platform",
                                  "Successfully completed the Hacktoberfest Challenge 2020"], 
-                    "Life Motto": ["long long learning = 100;  
+                    "LifeMotto": ["long long learning = 100;  
                                     while(1) {
                                       if(learning > 0){ 
                                       extern int Knowledge = 1;
                                       ++Knowledge;
                                     } }" ],
                     "Responsibility": "Chief Designer SJC-GCT"   
-                  };
+                  }';
 ```                   
                   
 
