@@ -29,7 +29,7 @@ const Dharani  = '{
                     "Pronouns": [" She", "her"],  
                     "Hometown": "Kangeyam, Tiruppur, India",
                     "College": "Government College of Technology(GCT)",
-                    "Course": "B.Tech in Information Technology('22)",
+                    "Course": "B.Tech in Information Technology(2022)",
                     "Languages": ["Java","C","JS basics"],
                     "OtherTechnical": ["HTML", "CSS","SQL"],
                     "Academic": ["Data Structures & Algorithmns","DBMS","OS basics"],
