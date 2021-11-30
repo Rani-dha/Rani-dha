@@ -44,7 +44,7 @@ const Dharani  = '{
                                       extern int Knowledge = 1;
                                       ++Knowledge;
                                     } }" ],
-                    "Responsibility": "Chief Designer SJC-GCT"   
+                    "Responsibility": ["Chief Designer SJC GCT", "Syscom Head ITA"]   
                   }';
 ```                   
                   
