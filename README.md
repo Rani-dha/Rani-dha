@@ -30,21 +30,23 @@ const Dharani  = '{
                     "Hometown": "Kangeyam, Tiruppur, India",
                     "College": "Government College of Technology(GCT)",
                     "Course": "B.Tech in Information Technology(2022)",
-                    "Languages": ["Java","C","JS basics"],
-                    "OtherTechnical": ["HTML", "CSS","SQL"],
-                    "Academic": ["Data Structures & Algorithmns","DBMS","OS basics"],
-                    "Editor": "Visual Studio Code",
-                    "Frameworks": "Bootstrap UI basics",
-                    "Tools": ["Git","Photoshop"],
-                    "Achievements": ["Ranked Top student in GCT- GeeksForGeeks coding platform",
+                    "Languages": ["Java", "JavaScript", "Python", "C"],
+                    "OtherTechnical": ["HTML", "CSS", "SQL"],
+                    "Academic": ["Data Structures & Algorithmns", "DBMS", "OS basics"],
+                    "Library": "React JS",
+                    "Frameworks": ["Spring Boot", "Bootstrap UI"],
+                    "Tools": ["Git", "Photoshop"],
+                    "IDE": "IntelliJ IDEA",
+                    "Achievements": ["Ranked Top student in GCT- GFG coding platform",
                                  "Successfully completed the Hacktoberfest Challenge 2020"], 
-                    "LifeMotto": ["long long learning = 100;  
-                                    while(1) {
-                                      if(learning > 0){ 
-                                      extern int Knowledge = 1;
-                                      ++Knowledge;
-                                    } }" ],
-                    "Responsibility": ["Chief Designer SJC GCT", "Syscom Head ITA"]   
+                    "LifeMotto": ["long long int learning = 100;  
+                                      while(1) {
+                                         if(learning > 0){ 
+                                           extern int Knowledge = 1;
+                                           ++Knowledge;
+                                         } }" ],
+                    "Responsibility": ["Chief Designer SJC", " Syscom Head ITA"],
+                    "Job Offers": ["ThoughtWorks (Off campus offer)", "Larsen & Toubro Infotech Limited (LTI)", " Mbit Wireless"]
                   }';
 ```                   
                   
