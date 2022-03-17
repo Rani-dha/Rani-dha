@@ -38,7 +38,7 @@ const Dharani  = '{
                     "Tools": ["Git", "Photoshop"],
                     "IDE": "IntelliJ IDEA",
                     "Achievements": ["Ranked Top student in GCT- GFG coding platform",
-                                 "Successfully completed the Hacktoberfest Challenge 2020"], 
+                                 "Successfully completed the Hacktoberfest Challenge"], 
                     "LifeMotto": ["long long int learning = 100;  
                                       while(1) {
                                          if(learning > 0){ 
