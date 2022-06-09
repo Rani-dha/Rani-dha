@@ -1,8 +1,9 @@
  <!-- Sample Dev class image 
-<img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/dev_object.png" alt="dev_object" align="right" width="500" /> -->
+<img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/dev_object.png" alt="dev_object" align="right" width="500" /> 
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> - globe img -->
 
 
-## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+## Welcome to my world 
 ### Hello! I'm Dharani, a passionate Software Engineer from India <img align='right' src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="150"> 
 <!-- https://media.giphy.com/media/3owyp2SViuDIGh8YoM/giphy.gif
  https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif 
